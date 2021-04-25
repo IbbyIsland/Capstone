@@ -20,7 +20,15 @@ VIEW :
 
 **Scenario3: Created to teach users about the importance of securing their data in transit. By having the user acknowledge that the data sent, no matter what it is, should be encrypted and decrypted by only the recipient of the message, this scenario will be successful in creating a sense of urgency for users to keep their data in transit secure. This also introduces the concepts of VPN, Secure Shell, and obfuscation.
 
+**Scenario3Learner: Created to teach users more about Encryption. Gives the user more information about standard encryption protocols, why they're important, and how companies use them. It also contains an encryptor for the user to encrypt their own message.
+
 **Scenario4: Created to teach users about the need to make sure that the data they are sending or receiving has not been corrupted or changed. As such, this scenario introduces the concept of integrity and hashing. By having the user choose between multiple actions to ensure that the data has retained integrity, such as using Digital Certificates and hashing methods, this scenario is successful in teaching users the importance of data integrity.
+
+**Scenario4Learner: Created to expand on the users knowledge gained from Scenario4: Hashing, in which this learner scenario gives more information about how professionals use hashing, and the different methods for it. Additionally, it has an included hasher in which the user can hash their own message and see the hash result.
+
+**Scenario5: Designed to teach the user about Availability, and how some real life scenarios can apply to protecting the availability of systems in CybserSecurity. Additionally, includes more information about what not to do when trying to keep your system available for use.
+
+**Scenario5Learner: Created to teach the user more about Firewalls by having the user interact with an actual Firewall. Gives the user the ability to deny and permit connections according to a given network diagram, along with what services to deny to where.
 
 
 SRC:
